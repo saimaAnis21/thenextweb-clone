@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# NYT Article
+# Cloning thenextweb.com
 
-> Replication of a NYT article.
+> Replication of thenextweb.com.
 ![screenshot](./images/screen-shot.png)
 
 ## Built With
