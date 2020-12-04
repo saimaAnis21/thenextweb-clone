@@ -151,9 +151,6 @@ margin: 0;
     
    }
 
-.cover_section_item1 .cover_text{
-    padding-top: 200px;
-}
 
 .cover_text a{
     color: white;
@@ -588,6 +585,10 @@ footer{
      height: 90px;
      width: auto;
  }
+
+ .cover_section_item1 .cover_text{
+    padding-top: 200px;
+}
 
 
 }
