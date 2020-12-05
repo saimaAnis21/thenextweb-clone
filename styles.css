@@ -456,7 +456,6 @@ footer {
 
 /* tablet version */
 @media only screen and (min-width: 768px) {
-
   .cover_section {
 
   grid-template-columns:    repeat(3,1fr);
