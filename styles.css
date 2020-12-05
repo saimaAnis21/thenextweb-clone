@@ -168,7 +168,7 @@ body {
 
 .cover_section_item2 {
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-  url('images/christmas-tree.jfif');
+    url('images/christmas-tree.jfif');
 
 }
 
@@ -523,7 +523,7 @@ footer {
 
   }
 
-/* top header */
+  /* top header */
 
   .bottom_hdr {
     top:35px;
@@ -565,11 +565,11 @@ footer {
     top: 8px;
   }
 
-.top_hdr_right a {
-  padding-right: 3px;
-  text-decoration: none;
+  .top_hdr_right a {
+    padding-right: 3px;
+    text-decoration: none;
 
- }
+  }
 
   .top_nav_left {
     display: inherit;
@@ -593,7 +593,7 @@ footer {
   .logo_class img {
     height: 90px;
     width: auto;
-   }
+  }
 
   .cover_section_item1 .cover_text {
     padding-top: 200px;
@@ -616,7 +616,7 @@ footer {
 
   .cover_section_item1 {
     background-image:linear-gradient(to bottom right,  rgba(122, 43, 6, 1), rgba(245, 244, 240, 0.5)),
-    url('images/top-car-img.jfif');
+      url('images/top-car-img.jfif');
   }
 
   .latest_news_grid {
