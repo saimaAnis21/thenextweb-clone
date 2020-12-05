@@ -34,12 +34,10 @@ body {
   top:0px;
   left:0px;
   z-index: 1000;
-
 }
 
 .top_nav_left {
   display: none;
-
 }
 
 
@@ -84,7 +82,6 @@ body {
 
 /* top left logo */
 .logo_class {
-
   position: fixed;
   top:0px;
   left:0px;
@@ -151,7 +148,6 @@ body {
 }
 
 .cover_section_item1 {
-
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
     url('images/top-car-img.jfif');
 }
@@ -184,7 +180,6 @@ body {
 }
 
 .latest_news_hdr {
-
   overflow: hidden;
   color:orangered;
   display: inline;
@@ -226,14 +221,12 @@ body {
 }
 
 .fund_item {
-
   background-image: linear-gradient(to bottom,
   #f42 20%,
   #ffebe7 20%,
   #ffebe7 45%,
   #fffaf8 45%,
   #fffaf8 100% );
-
   position: relative;
 }
 
@@ -249,7 +242,6 @@ body {
 
 .lat_fun_hdr {
   position: relative;
-
 }
 
 .lat_fun_hdr a {
@@ -260,7 +252,6 @@ body {
 .lat_fun_hdr ul {
   list-style-type: none;
   position: absolute;
-
 }
 
 .color_orange {
@@ -280,7 +271,6 @@ body {
 }
 
 .fund_item_txt {
-
   position: absolute;
   left: 100px;
   top: 10px;
@@ -288,7 +278,6 @@ body {
 }
 
 .fund_item_txt2 {
-
   position: absolute;
   left: 10px;
   top: 100px;
@@ -329,7 +318,6 @@ hr {
 .nine_grid {
   display: grid;
   grid-template-rows: repeat(9,1fr);
-
 }
 
 .nine_grid_item {
@@ -339,11 +327,9 @@ hr {
 .nine_item_top {
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
     url('images/mark-zuck.png');
-
   box-sizing: border-box;
   height: 350px;
   width: 100%;
-
   position: relative;
 }
 
@@ -407,11 +393,8 @@ footer {
 }
 
 .footer_div1 {
-
   position: absolute;
-
   text-align: center;
-
   top:20%;
   left: 15%;
   right: 15%;
@@ -442,7 +425,6 @@ footer {
 /* tablet version */
 @media only screen and (min-width: 768px) {
   .cover_section {
-
     grid-template-columns:  repeat(3,1fr);
     grid-template-rows:  repeat(2,1fr);
     column-gap:  10px;
@@ -470,7 +452,6 @@ footer {
   }
 
   .latest_news_grid {
-
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(3,1fr);
     column-gap: 12px;
@@ -481,7 +462,6 @@ footer {
   }
 
   .latest_news_item img {
-
     width: 100%;
     height: auto;
   }
@@ -528,7 +508,6 @@ footer {
   }
 
   .top_hdr_left a {
-
     padding-right: 3px;
     text-decoration: none;
   }
@@ -602,6 +581,7 @@ footer {
 
   .lat_fun_grid {
     grid-template-columns: repeat(4,1fr); 
+
   }
 
   .last_item_hidden {
