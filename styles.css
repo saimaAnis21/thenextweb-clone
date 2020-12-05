@@ -563,8 +563,11 @@ footer {
   }
 
   .cover_section_item1 {
-    background-image:  linear-gradient(
-      to bottom right, rgba(122, 43, 6, 1), rgba(245, 244, 240, 0.5)),
+    background-image:  
+      linear-gradient(
+        to bottom right,
+        rgba(122, 43, 6, 1),
+        rgba(245, 244, 240, 0.5)),
         url('images/top-car-img.jfif');
   }
 
@@ -575,7 +578,6 @@ footer {
 
   .lat_fun_grid {
     grid-template-columns: repeat(4, 1fr);
-
   }
 
   .last_item_hidden {
