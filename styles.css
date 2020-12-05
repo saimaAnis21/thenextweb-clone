@@ -143,14 +143,22 @@ body {
 
 .cover_section_item1 {
   background-image:
-    linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-      url('images/top-car-img.jfif');
+    linear-gradient(
+      to bottom,
+      rgb(250, 246, 246, 0),
+      rgba(2, 1, 2, 1)
+    ),
+    url('images/top-car-img.jfif');
 }
 
 .cover_section_item2 {
-  background-image:  linear-gradient(
-      to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-      url('images/christmas-tree.jfif');
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgb(250, 246, 246, 0),
+      rgba(2, 1, 2, 1)
+    ),
+    url('images/christmas-tree.jfif');
 }
 
 .cover_section_item3 {
@@ -314,8 +322,7 @@ hr {
 
 .nine_grid {
   display: grid;
-  grid-template-rows: repeat(9,1fr);
-
+  grid-template-rows: repeat(9, 1fr);
 }
 
 .nine_grid_item {
@@ -323,9 +330,13 @@ hr {
 }
 
 .nine_item_top {
-  background-image:  linear-gradient(
-      to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-      url('images/mark-zuck.png');
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgb(250, 246, 246, 0),
+      rgba(2, 1, 2, 1)
+    ),
+    url('images/mark-zuck.png');
   box-sizing: border-box;
   height: 350px;
   width: 100%;
@@ -380,7 +391,7 @@ hr {
 
 footer {
   background-image:
-    linear-gradient( 
+    linear-gradient(
       to bottom,
       #111 60%,
       #000 60%,
