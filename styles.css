@@ -218,14 +218,15 @@ body {
 }
 
 .fund_item {
-  background-image:linear-gradient(
+  background-image:
+    linear-gradient(
     to bottom,
     #f42 20%,
     #ffebe7 20%,
     #ffebe7 45%,
     #fffaf8 45%,
-    #fffaf8 100% );
-
+    #fffaf8 100%
+    );
   position: relative;
 }
 
