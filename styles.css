@@ -569,8 +569,8 @@ footer {
         to bottom right,
         rgba(122, 43, 6, 1),
         rgba(245, 244, 240, 0.5)
-      ),
-      url('images/top-car-img.jfif');
+        ),
+        url('images/top-car-img.jfif');
   }
 
   .latest_news_grid {
