@@ -19,8 +19,11 @@ https://saimaanis21.github.io/week2-Saima/
 Clone:
 
 Clone the repository from the Github to your local folder
-using commads
-Git clone https://github.com/saimaAnis21/week2-Saima/tree/thenextweb
+using Git commands:
+1- Open the command terminal by opening the folder in whcih you wish to clone the project.
+2- Right click and select "Open in terminal"
+3- Now run the git command
+   Git clone https://github.com/saimaAnis21/week2-Saima/tree/thenextweb
 
 
 
@@ -28,9 +31,9 @@ Git clone https://github.com/saimaAnis21/week2-Saima/tree/thenextweb
 
 👤 **Author1**
 
-- GitHub:  @saimaAnis21
-- Twitter: @SheTALKS6
-- Linkedin:saima Anis
+- GitHub:  [@saimaAnis21](https://github.com/saimaAnis21)
+- Twitter: [@SheTALKS6]
+- Linkedin:[saima Anis](https://www.linkedin.com/in/saima-anis-3a07921b2/)
 
 ## 🤝 Contributing
 
