@@ -16,9 +16,9 @@ body {
   display: none;
 }
 
-.top_hdr_left{
+.top_hdr_left {
   display: none;
-  
+
 }
 
 .top_hdr_right {
@@ -35,12 +35,12 @@ body {
   top:0px;
   left:0px;
   z-index: 1000;
-    
+
 }
 
 .top_nav_left {
   display: none;
-    
+
 }
 
 
@@ -60,7 +60,7 @@ body {
 
 
 .top_icons {
-  float: right; 
+  float: right;
   height: 100%;
   border-left: darkgray ridge 1px;
 
@@ -208,7 +208,7 @@ body {
   padding-top: 25px;
 }
 
-.latest_news_item { 
+.latest_news_item {
   display: flex;
   flex-direction: row;
   overflow: hidden;
@@ -232,19 +232,19 @@ body {
 
 .lat_fun_grid {
   display: grid;
-  grid-template-rows: repeat(4,200px); 
-  row-gap:45px;    
+  grid-template-rows: repeat(4,200px);
+  row-gap:45px;
   margin-top: 10px;
 }
 
 .fund_item {
 
   background-image: linear-gradient(to bottom,
-    #ff4422 20%, 
-    #ffebe7 20%, 
+    #ff4422 20%,
+    #ffebe7 20%,
     #ffebe7 45%,
     #fffaf8 45%,
-    #fffaf8 100% );   
+    #fffaf8 100% );
 
   position: relative;
 }
@@ -261,7 +261,7 @@ body {
 
 .lat_fun_hdr {
   position: relative;
-    
+
 }
 
 .lat_fun_hdr a {
@@ -272,7 +272,7 @@ body {
 .lat_fun_hdr ul {
   list-style-type: none;
   position: absolute;
-     
+
 }
 
 .color_orange {
@@ -341,7 +341,7 @@ hr {
 .nine_grid {
   display: grid;
   grid-template-rows: repeat(9,1fr);
-    
+
 }
 
 .nine_grid_item {
@@ -383,7 +383,7 @@ hr {
 
 .nine_item_last ul {
   display: inline;
-    
+
 }
 
 .nine_item_last li {
@@ -400,7 +400,7 @@ hr {
 
 .lat_deals_hdr div {
   display: inline;
-   
+
 }
 
 .hdr2 {
@@ -411,12 +411,12 @@ footer {
   background-image: linear-gradient(to bottom,
     #111 60%,
     #000 60%,
-    #000 100% );   
+    #000 100% );
   width: auto;
   height: 300px;
   color: #aaa;
   position: relative;
-    
+
 }
 
 .footer_div1 {
@@ -451,7 +451,7 @@ footer {
   width:40px;
   height:auto;
   vertical-align: middle;
-    
+
 }
 
 /* tablet version */
@@ -486,16 +486,16 @@ footer {
 }
 
 .latest_news_grid {
-        
+
   grid-template-columns: repeat(3,1fr);
   grid-template-rows: repeat(3,1fr);
   column-gap: 12px;
-        
+
 }
 
 .latest_news_item {
   flex-direction: column;
-        
+
 }
 
 .latest_news_item img {
@@ -506,9 +506,9 @@ footer {
 }
 
 .lat_fun_grid {
-  grid-template-columns: repeat(3,1fr); 
+  grid-template-columns: repeat(3,1fr);
   grid-template-rows: 200px;
-  column-gap:12px;    
+  column-gap:12px;
 
 }
 
@@ -558,7 +558,7 @@ footer {
 
 }
 
-.top_hdr_right { 
+.top_hdr_right {
   display: inherit;
   float: right;
   position: absolute;
