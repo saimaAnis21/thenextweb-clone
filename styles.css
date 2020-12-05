@@ -10,7 +10,7 @@ body {
   display: none;
 }
 
-/*top hdr*/
+/* top hdr */
 
 .top_hdr {
   display: none;
@@ -25,7 +25,7 @@ body {
   display: none;
 }
 
-/*bottom hdr*/
+/* bottom hdr */
 
 .bottom_hdr {
   height: 51px;
@@ -45,7 +45,7 @@ body {
 
 
 
-/*top nav right*/
+/* top nav right */
 
 .top_nav_right {
   width: 100%;
@@ -84,7 +84,7 @@ body {
   padding-top: 15px;
 }
 
-/* top left logo*/
+/* top left logo */
 .logo_class {
    
   position: fixed;
@@ -98,7 +98,7 @@ body {
   width: auto;
 }
 
-/*Cover Section */
+/* Cover Section */
 
 .cover_section {
   display: grid;
@@ -160,7 +160,7 @@ body {
 }
 
 .cover_section_item1 {
-  /* grid-area: myArea;*/
+  
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
     url('images/top-car-img.jfif');
 
@@ -177,7 +177,7 @@ body {
     url('images/home-img.png');
 }
 
-/*latest news*/
+/* latest news */
 
 .latest_news {
   margin: 10px;
@@ -222,7 +222,7 @@ body {
   padding-right: 10px;
 }
 
-/*latest funding */
+/* latest funding */
 
 .latest_funding {
   margin-top:50px;
@@ -330,7 +330,7 @@ hr {
 
 
 
-/*articles section 3x3 grid*/
+/* articles section 3x3 grid */
 
 .nine_section {
   margin-top: 80px;
@@ -454,7 +454,7 @@ footer {
     
 }
 
-/* tablet version*/
+/* tablet version */
 @media only screen and (min-width: 768px) {
 
 .cover_section {
@@ -602,7 +602,7 @@ footer {
 
 }
 
-/* Desktop version*/
+/* Desktop version */
 @media only screen and (min-width: 1024px) {
    
 .big_logo {
