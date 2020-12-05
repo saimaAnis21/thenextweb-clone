@@ -143,20 +143,20 @@ body {
 
 .cover_section_item1 {
   background-image:
-  linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-    url('images/top-car-img.jfif');
+    linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
+      url('images/top-car-img.jfif');
 }
 
 .cover_section_item2 {
-  background-image:
-  linear-gradient(to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-    url('images/christmas-tree.jfif');
+  background-image:  linear-gradient(
+      to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
+      url('images/christmas-tree.jfif');
 }
 
 .cover_section_item3 {
-  background-image:
-  linear-gradient(to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-    url('images/home-img.png');
+  background-image:  linear-gradient(
+      to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
+      url('images/home-img.png');
 }
 
 /* latest news */
@@ -218,13 +218,14 @@ body {
 }
 
 .fund_item {
-  background-image: 
-  linear-gradient(to bottom,
-  #f42 20%,
-  #ffebe7 20%,
-  #ffebe7 45%,
-  #fffaf8 45%,
-  #fffaf8 100% );
+  background-image:linear-gradient(
+    to bottom,
+    #f42 20%,
+    #ffebe7 20%,
+    #ffebe7 45%,
+    #fffaf8 45%,
+    #fffaf8 100% );
+
   position: relative;
 }
 
@@ -321,9 +322,9 @@ hr {
 }
 
 .nine_item_top {
-  background-image:
-  linear-gradient(to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
-    url('images/mark-zuck.png');
+  background-image:  linear-gradient(
+      to bottom, rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
+      url('images/mark-zuck.png');
   box-sizing: border-box;
   height: 350px;
   width: 100%;
@@ -377,13 +378,11 @@ hr {
 }
 
 footer {
-  background-image: 
-  linear-gradient( 
-  to bottom,
-  #111 60%,
-  #000 60%,
-  #000 100% 
-  );
+  background-image:  linear-gradient( 
+    to bottom,
+    #111 60%,
+    #000 60%,
+    #000 100%);
   width: auto;
   height: 300px;
   color: #aaa;
@@ -564,9 +563,9 @@ footer {
   }
 
   .cover_section_item1 {
-    background-image:
-    linear-gradient(to bottom right, rgba(122, 43, 6, 1), rgba(245, 244, 240, 0.5)),
-      url('images/top-car-img.jfif');
+    background-image:  linear-gradient(
+      to bottom right, rgba(122, 43, 6, 1), rgba(245, 244, 240, 0.5)),
+        url('images/top-car-img.jfif');
   }
 
   .latest_news_grid {
