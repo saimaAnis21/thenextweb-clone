@@ -240,7 +240,7 @@ body {
 .fund_item {
 
   background-image: linear-gradient(to bottom,
-  #ff4422 20%,
+  #f42 20%,
   #ffebe7 20%,
   #ffebe7 45%,
   #fffaf8 45%,
@@ -409,9 +409,9 @@ hr {
 
 footer {
   background-image: linear-gradient(to bottom,
-    #111 60%,
-    #000 60%,
-    #000 100% );
+  #111 60%,
+  #000 60%,
+  #000 100% );
   width: auto;
   height: 300px;
   color: #aaa;
@@ -459,9 +459,9 @@ footer {
 
 .cover_section {
 
-  grid-template-columns: repeat(3,1fr);
-  grid-template-rows: repeat(2,1fr);
-  column-gap: 10px;
+  grid-template-columns:    repeat(3,1fr);
+  grid-template-rows:    repeat(2,1fr);
+  column-gap:    10px;
 }
 
 .cover_section_item1 {
