@@ -379,11 +379,13 @@ hr {
 }
 
 footer {
-  background-image:  linear-gradient( 
-    to bottom,
-    #111 60%,
-    #000 60%,
-    #000 100%);
+  background-image:
+    linear-gradient( 
+      to bottom,
+      #111 60%,
+      #000 60%,
+      #000 100%
+    );
   width: auto;
   height: 300px;
   color: #aaa;
