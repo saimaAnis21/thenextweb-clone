@@ -15,7 +15,7 @@ body {
 .top_hdr {
   display: none;
 }
- 
+
 .top_hdr_left{
   display: none;
   
@@ -63,7 +63,7 @@ body {
   float: right; 
   height: 100%;
   border-left: darkgray ridge 1px;
-   
+
 }
 
 .top_icons a {
@@ -76,7 +76,7 @@ body {
   padding: 15px;
   padding-top: 15px;
 }
-    
+
 .srch_icon {
   transform: scaleX(-1);
   color: lightgray;
@@ -86,11 +86,11 @@ body {
 
 /* top left logo */
 .logo_class {
-   
+
   position: fixed;
   top:0px;
   left:0px;
-   
+
 }
 
 .logo_class img {
@@ -106,7 +106,7 @@ body {
   row-gap: 10px;
   margin: 10px;
   margin-top: 50px;
-   
+
 }
 
 .overflow_hidden {
@@ -116,7 +116,7 @@ body {
 .bg_settings {
   background-repeat: no-repeat;
   background-size: cover;
-    
+
 }
 
 .small_text {
@@ -134,24 +134,24 @@ body {
 
 .more_bold {
   font-weight: 700;
-  
+
 }
 
 .med_bold {
   font-weight: 600;
-    
+
 }
 
 .less_bold {
   font-weight: 400;
-    
+
 }
 
 .cover_text {
   padding-left: 10px;
   padding-top: 40px;
   line-height: 25px;
-    
+
 }
 
 
@@ -160,7 +160,7 @@ body {
 }
 
 .cover_section_item1 {
-  
+
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
     url('images/top-car-img.jfif');
 
@@ -169,7 +169,7 @@ body {
 .cover_section_item2 {
   background-image:linear-gradient(to bottom,  rgb(250, 246, 246, 0), rgba(2, 1, 2, 1)),
   url('images/christmas-tree.jfif');
-  
+
 }
 
 .cover_section_item3 {
@@ -195,7 +195,7 @@ body {
 }
 
 .latest_news_hdr {
-        
+
   overflow: hidden;
   color:orangered;
   display: inline;
@@ -212,7 +212,7 @@ body {
   display: flex;
   flex-direction: row;
   overflow: hidden;
-    
+
 }
 
 .latest_news_item img {
@@ -238,7 +238,7 @@ body {
 }
 
 .fund_item {
-   
+
   background-image: linear-gradient(to bottom,
     #ff4422 20%, 
     #ffebe7 20%, 
@@ -292,7 +292,7 @@ body {
 }
 
 .fund_item_txt {
-     
+
   position: absolute;
   left: 100px;
   top: 10px;
@@ -420,15 +420,15 @@ footer {
 }
 
 .footer_div1 {
-    
+
   position: absolute;
-   
+
   text-align: center;
-    
+
   top:20%;
   left: 15%;
   right: 15%;
-    
+
 }
 
 .footer_div1 i {
@@ -497,19 +497,19 @@ footer {
   flex-direction: column;
         
 }
-    
+
 .latest_news_item img {
-        
+
   width: 100%;
   height: auto;
-        
+
 }
 
 .lat_fun_grid {
   grid-template-columns: repeat(3,1fr); 
   grid-template-rows: 200px;
   column-gap:12px;    
-        
+
 }
 
 .last_item_hidden {
@@ -523,7 +523,7 @@ footer {
   row-gap: 15px;
 
 }
-   
+
 /* top header */
 
 .bottom_hdr {
@@ -539,16 +539,16 @@ footer {
   position: relative;
   margin-left: 180px;
   top:0;
-     
+
 }
- 
+
 .top_hdr_left {
   display: inherit;
   float: left;
   position: absolute;
   left: 15px;
   top: 8px;
-  
+
 }
 
 .top_hdr_left a {
@@ -557,14 +557,14 @@ footer {
   text-decoration: none;
 
 }
- 
- .top_hdr_right { 
+
+.top_hdr_right { 
   display: inherit;
   float: right;
   position: absolute;
   right: 15px;
   top: 8px;
- }
+}
 
 .top_hdr_right a {
   padding-right: 3px;
@@ -604,7 +604,7 @@ footer {
 
 /* Desktop version */
 @media only screen and (min-width: 1024px) {
-   
+
 .big_logo {
   width:auto;
   height: 100px;
@@ -621,10 +621,10 @@ footer {
 }
 
 .latest_news_grid {
-        
+
   grid-template-columns: repeat(4,1fr);
   grid-template-rows: repeat(2,1fr);
-        
+
 }
 
 .lat_fun_grid {
@@ -639,29 +639,29 @@ footer {
 .nine_grid {
   grid-template-columns: repeat(3,1fr);
   grid-template-rows: repeat(3,1fr);
-        
+
 }
 
 .logo_class {
-   
+
   display: none;
-        
+
 }
 
 .top_hdr {
   width: 100%;
   margin-left: 0px;
-         
+
 }
 
 .top_hdr_left a {
 
   padding-right: 5px;
 }
-         
+
 .top_hdr_right a {
   padding-right: 5px;
-       
+
 }
 
 .top_nav_left {
