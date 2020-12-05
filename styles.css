@@ -8,7 +8,6 @@ body {
 
 .big_logo {
   display: none;
-  z-index:500;
 }
 
 .top_hdr {
@@ -499,7 +498,6 @@ footer {
     position: fixed;
     margin-left: 180px;
     top: 0;
-    
   }
 
   .top_hdr_left {
@@ -561,7 +559,6 @@ footer {
   .big_logo {
     width: auto;
     height: 100px;
-    z-index: 1000;
     position: absolute;
     top: 85px;
     left: 10px;
