@@ -32,7 +32,7 @@ using Git commands:
 👤 **Author1**
 
 - GitHub:  [@saimaAnis21](https://github.com/saimaAnis21)
-- Twitter: [@SheTALKS6]
+- Twitter: [@SheTALKS6](https://twitter.com/SheTALKS6)
 - Linkedin:[saima Anis](https://www.linkedin.com/in/saima-anis-3a07921b2/)
 
 ## 🤝 Contributing
