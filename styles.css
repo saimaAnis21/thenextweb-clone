@@ -1,12 +1,12 @@
-body {
-margin: 0;
+ body {
+     margin: 0;
 }
 
-.no_deco {
-    text-decoration: none;
+ .no_deco {
+     text-decoration: none;
 }
 
-.big_logo {
+ .big_logo {
     display: none;
 }
 
@@ -28,13 +28,13 @@ margin: 0;
 /*bottom hdr*/
 
 .bottom_hdr {
-    height: 51px;
+     height: 51px;
      background-color: white;
      width: 100%;
      position: fixed;
-    top:0px;
-    left:0px;
-    z-index: 1000;
+     top:0px;
+     left:0px;
+     z-index: 1000;
     
 }
 
