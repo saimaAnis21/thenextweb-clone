@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-https://saimaanis21.github.io/week2-Saima/
+https://saimaanis21.github.io/thenextweb-clone/
 
 
 Clone:
